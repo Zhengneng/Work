@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 curl -b cookies -c cookies -X POST -d @auth.js http://api.appnexus.com/Auth | python -m json.tool
 
 
@@ -12,4 +12,4 @@ curl -b cookies -c cookies 'http://api.appnexus.com/report-download?id=a61282ac5
 =======
 # Work
 Everything Related to Work
->>>>>>> 28dd29a093072d71bdc2c1ec7ff9d18b653e0bef
+
